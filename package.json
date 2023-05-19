@@ -11,8 +11,14 @@
   },
   "dependencies": {
     "agora-rtc-sdk-ng": "^4.17.2",
+    "autoprefixer": "^10.4.14",
+    "firebase": "^9.22.0",
+    "postcss": "^8.4.23",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router": "^6.11.2",
+    "react-router-dom": "^6.11.2",
+    "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
